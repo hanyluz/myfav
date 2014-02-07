@@ -1,6 +1,46 @@
 <item>
-<title>(((((((((( Aku punya station ))))))))))</title>
+<title>(((((((((( My List))))))))))</title>
 <link>http://</link>
+
+
+<item>
+<title> 1. TV1 RTM</title>
+<link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch001/playlist.m3u8</link>
+<thumbnail>http://mystream.rtm.gov.my/images/tv1rtm.png</thumbnail>
+
+<item>
+<title> 2. TV2 RTM</title>
+<link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch003/playlist.m3u8</link>
+<thumbnail>http://mystream.rtm.gov.my/images/tv2rtm.png</thumbnail>
+
+<item>
+<title> 3. TV3 Media Prima</title>
+<link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-YhOfMfADEMQ/T34Y8RA_TBI/AAAAAAAAAr0/QscSkCO34kU/s1600/tv3.jpg</thumbnail>
+
+<item>
+<title> 7. NTV7 Media Prima</title>
+<link>http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/zh/2/28/NTV7_New.JPG</thumbnail>
+</item>
+
+<item>
+<title> 8. 8TV Media Prima</title>
+<link>http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8</link>
+<thumbnail>https://lh4.googleusercontent.com/-nO726o6jsK4/TX62-KTRL7I/AAAAAAAAAHk/CDs1CIey2-E/s1600/fg.jpg</thumbnail>
+</item>
+
+<item>
+<title> 9. TV9 Media Prima</title>
+<link>http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-4AJMhfzV-fY/Um5MEGkIiLI/AAAAAAAADPM/Np-tNkbeiSc/s200/tv9.gif</thumbnail>
+</item>
+
+<item>
+<title>11. Astro Awani</title>
+<link>http://measatott06-i.akamaihd.net/hls/live/202857/OTT_06/master_01.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/ee/Astro-awani.jpg</thumbnail>
+</item>
 
 <item>
 <title>AXN</title>
@@ -24,11 +64,10 @@
 
 <item>
 <title>Alhijrah</title>
-<link>http://202.73.9.10:1935/live/alhijrah101/*</link>
+<link>http://202.73.9.10:1935/live/alhijrah101/media_b823739_w884636182.abst/Seg1-Frag88510.</link>
 <thumbnail>http://postgradproblems.com/wp-content/uploads/2013/11/bb1baab49ff0ffdffdb01c4081d8fe34.jpg</thumbnail>
 
 <item>
 <title>Disney Channel</title>
 <link>http://m3.megafun.vn/live.vs?c=vstv032&amp;q=high</link>
 <thumbnail></thumbnail>
- 
